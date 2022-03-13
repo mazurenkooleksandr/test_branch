@@ -3,3 +3,21 @@
   height: 100px;
   background: red;
 }
+
+.blue_block {
+  width: 100px;
+  height: 100px;
+  background: blue;
+}
+
+.green_block {
+  width: 100px;
+  height: 100px;
+  background: green;
+}
+
+.yellow_block {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+}
