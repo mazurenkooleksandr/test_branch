@@ -21,3 +21,9 @@
   height: 100px;
   background: yellow;
 }
+
+.gray_block {
+  width: 100px;
+  height: 100px;
+  background: gray;
+}
